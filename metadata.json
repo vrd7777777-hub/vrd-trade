@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix VRD Trade AI - Quant Trading \u0026 Hold Period Optimizer",
+  "description": "Algorithmic Indian market quant terminal suggesting high-conviction buy/hold stocks with optimal holding period analysis based on historical volatility and long-term trend modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
